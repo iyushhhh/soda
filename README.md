@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/3d-soda-can.git
+git clone https://github.com/iyushhhh/3d-soda-can.git
 Navigate to the project directory:
 
 bash
